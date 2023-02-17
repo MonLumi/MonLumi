@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MonLumi
-- 👀 I’m interested in Android Programming
-- 🌱 I’m currently learning Programming at Funix (A member of FPT Corporation)
+- 👀 I’m interested in Data Science field
+- :office: I’m working at FPT Software as Backend Developer
+- 🌱 I’m currently enrolling Bachelor Degree of Software Engineering at FPT University
 - 📫 How to reach me: nguyenvuvietanh.0795@gmail.com
 
 <!---
