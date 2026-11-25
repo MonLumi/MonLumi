@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MonLumi
-- 👀 I’m interested in Data Science field
-- :office: I’m working at FPT Software as Backend Developer
-- 🌱 I’m currently enrolling Bachelor Degree of Software Engineering at FPT University
+- 👀 I’m interested in DevOps, AI and engineering stuff
+- :office: I’m working at SmartOSC as Senior DevOps Engineer
 - 📫 How to reach me: nguyenvuvietanh.0795@gmail.com
 
 <!---
